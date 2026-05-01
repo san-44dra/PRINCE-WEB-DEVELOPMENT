@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #111;
+  color: #fff;
+  margin: 0;
+  paddind: 20px;
+  {
+    h1 {
+      color: #00ffcc;
+      {
+       .projects  {
+         display: flex;
+         gap: 20px;
+         margin-top: 20px;
+         {
+           .project {
+             background: #1e1e1e;
+             padding: 15px;
+             border-radius: 10px;
+             width: 250px;
+           }
+           a {
+             color: #00ffcc;
+             text-decoration: none;
